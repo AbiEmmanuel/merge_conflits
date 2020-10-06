@@ -1,2 +1,4 @@
 # merge_conflits
-dans mon github j'ecris pour modifier ce fichier.
+Dans mon github j'ecris pour modifier ce fichier.
+j'ai déjà cloné.
+tout va bien.
